@@ -1,0 +1,751 @@
+transaction_date,product_name,unit_price,total_qty,city,discount%
+2023-11-27,Espresso,25000,3,Jakarta,20
+2023-12-13,Cappuccino,30000,1,Bandung,5
+2023-11-28,Latte,35000,5,Yogyakarta,15
+2023-07-24,Espresso,25000,1,Jakarta,20
+2023-06-19,Sandwich,45000,5,Bandung,0
+2023-08-09,Americano,20000,5,Yogyakarta,15
+2023-02-24,Tea,15000,5,Bandung,15
+2023-01-06,Cappuccino,30000,4,Jakarta,10
+2023-02-20,Cappuccino,30000,2,Bekasi,15
+2023-05-13,Latte,35000,4,Jakarta,20
+2023-04-24,Flat White,30000,5,Bekasi,15
+2023-09-19,Tea,15000,5,Jakarta,5
+2023-09-23,Latte,35000,5,Tangerang Selatan,10
+2023-10-13,Flat White,30000,5,Yogyakarta,15
+2023-10-25,Espresso,25000,2,Jakarta,10
+2023-12-19,Americano,20000,1,Jakarta,15
+2023-10-22,Tea,15000,3,Bekasi,0
+2023-04-24,Flat White,30000,2,Bekasi,0
+2023-08-17,Latte,35000,5,Bekasi,0
+2023-07-11,Sandwich,45000,2,Bandung,20
+2023-07-20,Macchiato,32000,3,Tangerang Selatan,20
+2023-08-26,Americano,20000,3,Yogyakarta,5
+2023-12-14,Espresso,25000,3,Bandung,10
+2023-10-29,Latte,35000,2,Bekasi,10
+2023-12-20,Americano,20000,4,Bekasi,10
+2023-09-14,Cappuccino,30000,3,Tangerang Selatan,20
+2023-03-19,Sandwich,45000,5,Bandung,15
+2023-06-26,Macchiato,32000,5,Yogyakarta,15
+2023-01-13,Americano,20000,2,Bekasi,0
+2023-09-05,Latte,35000,1,Tangerang Selatan,10
+2023-02-23,Cappuccino,30000,4,Bandung,20
+2023-06-01,Macchiato,32000,4,Jakarta,0
+2023-08-01,Sandwich,45000,3,Tangerang Selatan,20
+2023-02-13,Latte,35000,5,Jakarta,20
+2023-03-01,Latte,35000,3,Bekasi,10
+2023-03-14,Tea,15000,1,Bandung,15
+2023-06-28,Cappuccino,30000,5,Yogyakarta,10
+2023-06-09,Sandwich,45000,5,Bekasi,20
+2023-06-25,Flat White,30000,2,Bandung,0
+2023-08-22,Espresso,25000,5,Yogyakarta,20
+2023-04-16,Espresso,25000,1,Tangerang Selatan,5
+2023-09-24,Americano,20000,1,Bekasi,15
+2023-09-05,Latte,35000,1,Yogyakarta,15
+2023-06-28,Sandwich,45000,2,Jakarta,5
+2023-09-01,Sandwich,45000,2,Tangerang Selatan,20
+2023-02-19,Cake,50000,4,Yogyakarta,10
+2023-08-13,Americano,20000,3,Yogyakarta,10
+2023-12-23,Tea,15000,5,Bekasi,0
+2023-08-20,Americano,20000,2,Jakarta,20
+2023-06-13,Espresso,25000,5,Bekasi,5
+2023-02-04,Cake,50000,2,Bandung,5
+2023-06-03,Espresso,25000,2,Jakarta,5
+2023-01-23,Flat White,30000,1,Jakarta,0
+2023-12-30,Mocha,40000,4,Bandung,15
+2023-02-28,Cappuccino,30000,5,Yogyakarta,15
+2023-01-12,Americano,20000,4,Tangerang Selatan,5
+2023-06-25,Latte,35000,1,Bandung,20
+2023-11-28,Flat White,30000,4,Tangerang Selatan,20
+2023-02-25,Espresso,25000,1,Tangerang Selatan,5
+2023-12-13,Flat White,30000,1,Tangerang Selatan,15
+2023-03-26,Americano,20000,5,Bandung,10
+2023-05-05,Macchiato,32000,2,Bandung,0
+2023-09-22,Americano,20000,1,Tangerang Selatan,10
+2023-03-31,Latte,35000,1,Yogyakarta,5
+2023-10-10,Espresso,25000,1,Yogyakarta,15
+2023-03-23,Macchiato,32000,4,Bandung,0
+2023-06-19,Macchiato,32000,1,Bandung,20
+2023-10-14,Espresso,25000,4,Tangerang Selatan,20
+2023-08-07,Mocha,40000,4,Tangerang Selatan,0
+2023-08-25,Tea,15000,2,Yogyakarta,0
+2023-04-29,Americano,20000,1,Bekasi,20
+2023-07-27,Espresso,25000,3,Yogyakarta,20
+2023-11-19,Cake,50000,4,Jakarta,5
+2023-04-05,Cappuccino,30000,1,Yogyakarta,0
+2023-04-06,Cappuccino,30000,1,Jakarta,15
+2023-11-24,Americano,20000,4,Jakarta,5
+2023-12-03,Americano,20000,5,Yogyakarta,15
+2023-08-10,Cake,50000,1,Jakarta,20
+2023-07-22,Cake,50000,5,Yogyakarta,10
+2023-01-15,Americano,20000,3,Bekasi,20
+2023-11-11,Macchiato,32000,2,Bekasi,0
+2023-04-12,Tea,15000,3,Bekasi,5
+2023-08-19,Tea,15000,5,Jakarta,0
+2023-10-31,Latte,35000,5,Jakarta,0
+2023-08-08,Mocha,40000,2,Yogyakarta,5
+2023-07-19,Americano,20000,3,Jakarta,0
+2023-01-03,Tea,15000,5,Bandung,15
+2023-12-27,Cake,50000,5,Bekasi,20
+2023-04-20,Mocha,40000,1,Yogyakarta,15
+2023-04-16,Latte,35000,1,Bekasi,5
+2023-05-23,Mocha,40000,3,Bandung,20
+2023-12-27,Flat White,30000,2,Bandung,15
+2023-02-02,Sandwich,45000,4,Bekasi,5
+2023-10-23,Latte,35000,4,Jakarta,15
+2023-02-22,Espresso,25000,3,Jakarta,0
+2023-10-02,Cappuccino,30000,4,Bekasi,0
+2023-04-06,Sandwich,45000,1,Tangerang Selatan,0
+2023-07-07,Cappuccino,30000,5,Jakarta,20
+2023-06-16,Cake,50000,5,Bekasi,0
+2023-04-11,Cappuccino,30000,1,Tangerang Selatan,0
+2023-08-23,Espresso,25000,3,Bekasi,15
+2023-02-28,Latte,35000,3,Bandung,15
+2023-05-15,Cake,50000,2,Tangerang Selatan,10
+2023-12-10,Cappuccino,30000,4,Bandung,20
+2023-09-08,Flat White,30000,4,Bandung,5
+2023-09-28,Mocha,40000,2,Bandung,5
+2023-11-24,Macchiato,32000,1,Jakarta,0
+2023-06-10,Americano,20000,4,Bandung,10
+2023-11-02,Americano,20000,2,Bekasi,20
+2023-07-18,Macchiato,32000,3,Bandung,5
+2023-11-09,Mocha,40000,3,Jakarta,0
+2023-07-20,Macchiato,32000,5,Yogyakarta,0
+2023-10-28,Latte,35000,3,Jakarta,15
+2023-02-28,Mocha,40000,1,Yogyakarta,20
+2023-06-28,Macchiato,32000,3,Yogyakarta,15
+2023-06-30,Cake,50000,5,Tangerang Selatan,10
+2023-08-23,Cake,50000,2,Tangerang Selatan,5
+2023-11-13,Macchiato,32000,1,Jakarta,10
+2023-03-30,Americano,20000,3,Yogyakarta,15
+2023-12-11,Flat White,30000,5,Jakarta,0
+2023-12-28,Mocha,40000,5,Jakarta,5
+2023-06-02,Flat White,30000,4,Tangerang Selatan,10
+2023-11-11,Sandwich,45000,2,Bekasi,15
+2023-10-30,Macchiato,32000,2,Tangerang Selatan,5
+2023-02-13,Mocha,40000,4,Yogyakarta,5
+2023-12-11,Mocha,40000,3,Jakarta,0
+2023-03-10,Cake,50000,5,Tangerang Selatan,5
+2023-06-10,Tea,15000,4,Bekasi,5
+2023-03-02,Sandwich,45000,4,Bandung,10
+2023-05-03,Mocha,40000,5,Jakarta,20
+2023-06-06,Flat White,30000,1,Yogyakarta,0
+2023-03-01,Americano,20000,2,Bekasi,15
+2023-04-04,Espresso,25000,2,Jakarta,0
+2023-07-11,Latte,35000,4,Yogyakarta,10
+2023-12-22,Americano,20000,4,Yogyakarta,15
+2023-03-14,Americano,20000,2,Tangerang Selatan,5
+2023-09-19,Latte,35000,4,Jakarta,20
+2023-07-18,Sandwich,45000,4,Bandung,0
+2023-08-03,Americano,20000,1,Yogyakarta,15
+2023-11-02,Tea,15000,5,Bandung,0
+2023-03-12,Flat White,30000,4,Yogyakarta,10
+2023-10-22,Macchiato,32000,5,Yogyakarta,10
+2023-07-16,Tea,15000,4,Bandung,15
+2023-08-05,Mocha,40000,5,Bandung,10
+2023-04-06,Mocha,40000,4,Bandung,20
+2023-09-07,Americano,20000,3,Bekasi,5
+2023-11-22,Sandwich,45000,1,Bekasi,20
+2023-10-03,Americano,20000,4,Bandung,5
+2023-12-22,Americano,20000,1,Bandung,0
+2023-11-27,Flat White,30000,5,Tangerang Selatan,20
+2023-03-30,Espresso,25000,2,Tangerang Selatan,15
+2023-10-12,Cake,50000,1,Tangerang Selatan,20
+2023-03-27,Tea,15000,1,Tangerang Selatan,20
+2023-09-08,Macchiato,32000,4,Bekasi,15
+2023-05-28,Cake,50000,2,Yogyakarta,15
+2023-03-13,Mocha,40000,4,Bandung,5
+2023-04-06,Macchiato,32000,3,Jakarta,0
+2023-06-11,Cappuccino,30000,4,Tangerang Selatan,20
+2023-08-19,Sandwich,45000,1,Yogyakarta,10
+2023-11-14,Cake,50000,1,Yogyakarta,10
+2023-01-28,Cappuccino,30000,4,Tangerang Selatan,20
+2023-07-03,Mocha,40000,4,Jakarta,15
+2023-01-05,Tea,15000,3,Bandung,10
+2023-09-06,Mocha,40000,4,Tangerang Selatan,0
+2023-03-11,Tea,15000,1,Jakarta,5
+2023-04-10,Flat White,30000,2,Jakarta,5
+2023-07-16,Espresso,25000,1,Jakarta,5
+2023-10-15,Espresso,25000,5,Bandung,10
+2023-09-16,Cappuccino,30000,4,Bandung,15
+2023-12-01,Cake,50000,2,Jakarta,0
+2023-09-11,Flat White,30000,2,Bekasi,20
+2023-07-29,Latte,35000,2,Yogyakarta,5
+2023-12-17,Cake,50000,1,Jakarta,15
+2023-09-09,Macchiato,32000,4,Yogyakarta,20
+2023-08-01,Cake,50000,2,Jakarta,5
+2023-12-30,Cake,50000,1,Bekasi,10
+2023-08-16,Flat White,30000,5,Jakarta,15
+2023-09-08,Latte,35000,5,Bekasi,5
+2023-03-27,Espresso,25000,4,Bekasi,15
+2023-02-12,Macchiato,32000,3,Jakarta,0
+2023-10-17,Cappuccino,30000,4,Tangerang Selatan,10
+2023-01-16,Mocha,40000,5,Yogyakarta,15
+2023-04-23,Tea,15000,4,Tangerang Selatan,10
+2023-05-30,Flat White,30000,2,Bekasi,10
+2023-01-17,Tea,15000,2,Bekasi,5
+2023-05-21,Cake,50000,4,Yogyakarta,20
+2023-04-26,Tea,15000,3,Jakarta,5
+2023-10-03,Americano,20000,3,Tangerang Selatan,20
+2023-05-28,Mocha,40000,5,Bekasi,0
+2023-03-28,Sandwich,45000,1,Bekasi,10
+2023-08-23,Latte,35000,2,Bandung,5
+2023-10-17,Sandwich,45000,2,Tangerang Selatan,5
+2023-09-11,Tea,15000,4,Tangerang Selatan,20
+2023-10-09,Mocha,40000,2,Jakarta,10
+2023-09-19,Mocha,40000,5,Bandung,10
+2023-02-27,Sandwich,45000,5,Tangerang Selatan,10
+2023-10-21,Sandwich,45000,3,Tangerang Selatan,20
+2023-02-28,Mocha,40000,3,Tangerang Selatan,5
+2023-05-18,Latte,35000,2,Bandung,0
+2023-10-06,Sandwich,45000,2,Jakarta,10
+2023-07-07,Tea,15000,3,Bandung,20
+2023-10-05,Cake,50000,3,Yogyakarta,15
+2023-01-22,Mocha,40000,2,Bandung,20
+2023-08-14,Mocha,40000,1,Bandung,10
+2023-10-07,Cappuccino,30000,3,Yogyakarta,0
+2023-04-22,Sandwich,45000,3,Jakarta,20
+2023-08-06,Tea,15000,1,Bandung,15
+2023-02-22,Mocha,40000,4,Yogyakarta,10
+2023-12-01,Flat White,30000,2,Tangerang Selatan,0
+2023-05-07,Tea,15000,1,Bekasi,5
+2023-06-02,Tea,15000,1,Tangerang Selatan,15
+2023-01-17,Cappuccino,30000,2,Jakarta,0
+2023-08-19,Latte,35000,2,Bekasi,10
+2023-05-15,Macchiato,32000,5,Yogyakarta,20
+2023-06-28,Americano,20000,5,Yogyakarta,5
+2023-02-14,Tea,15000,3,Tangerang Selatan,20
+2023-08-13,Mocha,40000,5,Tangerang Selatan,15
+2023-03-02,Cake,50000,1,Jakarta,20
+2023-05-02,Mocha,40000,1,Bandung,5
+2023-04-18,Cappuccino,30000,5,Bandung,10
+2023-10-29,Espresso,25000,4,Bandung,5
+2023-12-19,Tea,15000,3,Yogyakarta,5
+2023-06-29,Mocha,40000,3,Bandung,15
+2023-12-30,Latte,35000,2,Tangerang Selatan,5
+2023-11-09,Americano,20000,4,Yogyakarta,0
+2023-11-20,Americano,20000,2,Yogyakarta,5
+2023-08-08,Latte,35000,1,Bandung,0
+2023-03-26,Cake,50000,5,Bekasi,0
+2023-11-12,Latte,35000,4,Tangerang Selatan,0
+2023-03-13,Macchiato,32000,3,Bekasi,10
+2023-04-16,Tea,15000,4,Yogyakarta,5
+2023-04-16,Espresso,25000,4,Yogyakarta,20
+2023-01-31,Mocha,40000,1,Yogyakarta,15
+2023-10-19,Cake,50000,5,Bandung,20
+2023-06-29,Cake,50000,1,Bekasi,10
+2023-09-30,Sandwich,45000,4,Tangerang Selatan,0
+2023-05-24,Cake,50000,4,Bandung,0
+2023-11-02,Latte,35000,4,Tangerang Selatan,5
+2023-10-03,Flat White,30000,3,Tangerang Selatan,0
+2023-03-28,Cappuccino,30000,3,Jakarta,10
+2023-06-15,Mocha,40000,4,Tangerang Selatan,0
+2023-12-27,Tea,15000,1,Jakarta,0
+2023-05-30,Flat White,30000,1,Bekasi,0
+2023-05-29,Espresso,25000,5,Yogyakarta,20
+2023-10-21,Espresso,25000,2,Tangerang Selatan,10
+2023-05-17,Cake,50000,4,Bekasi,0
+2023-09-21,Espresso,25000,2,Tangerang Selatan,15
+2023-12-14,Cappuccino,30000,3,Yogyakarta,10
+2023-02-18,Latte,35000,1,Tangerang Selatan,15
+2023-03-11,Americano,20000,2,Yogyakarta,20
+2023-07-30,Espresso,25000,5,Yogyakarta,10
+2023-01-31,Americano,20000,1,Jakarta,15
+2023-05-22,Cappuccino,30000,4,Jakarta,5
+2023-12-02,Mocha,40000,4,Yogyakarta,15
+2023-03-06,Americano,20000,4,Tangerang Selatan,5
+2023-12-26,Macchiato,32000,2,Bandung,15
+2023-03-09,Cappuccino,30000,1,Yogyakarta,5
+2023-05-08,Flat White,30000,5,Tangerang Selatan,0
+2023-03-16,Mocha,40000,3,Jakarta,10
+2023-12-31,Tea,15000,2,Yogyakarta,10
+2023-06-14,Tea,15000,3,Yogyakarta,15
+2023-05-07,Sandwich,45000,4,Yogyakarta,20
+2023-12-13,Americano,20000,2,Bekasi,5
+2023-07-21,Americano,20000,4,Tangerang Selatan,0
+2023-09-08,Tea,15000,4,Bekasi,10
+2023-03-14,Tea,15000,1,Bandung,0
+2023-10-23,Cake,50000,3,Yogyakarta,15
+2023-11-20,Latte,35000,5,Tangerang Selatan,15
+2023-05-18,Cappuccino,30000,4,Jakarta,0
+2023-11-18,Latte,35000,4,Bandung,15
+2023-08-01,Cake,50000,4,Bekasi,10
+2023-07-12,Flat White,30000,5,Jakarta,5
+2023-08-20,Tea,15000,5,Bekasi,10
+2023-02-08,Latte,35000,2,Yogyakarta,10
+2023-11-21,Americano,20000,1,Bekasi,0
+2023-02-17,Latte,35000,4,Jakarta,10
+2023-07-26,Espresso,25000,1,Bekasi,10
+2023-09-21,Mocha,40000,3,Jakarta,20
+2023-05-23,Cappuccino,30000,2,Tangerang Selatan,0
+2023-12-22,Cake,50000,2,Tangerang Selatan,0
+2023-07-08,Latte,35000,5,Bandung,5
+2023-08-21,Americano,20000,4,Yogyakarta,10
+2023-09-07,Americano,20000,4,Bandung,20
+2023-06-17,Tea,15000,3,Bekasi,20
+2023-10-25,Tea,15000,3,Jakarta,15
+2023-01-02,Cappuccino,30000,1,Yogyakarta,10
+2023-02-17,Cake,50000,3,Bekasi,20
+2023-08-23,Mocha,40000,4,Tangerang Selatan,10
+2023-11-22,Macchiato,32000,4,Bandung,15
+2023-12-07,Macchiato,32000,5,Bandung,5
+2023-12-24,Mocha,40000,3,Yogyakarta,15
+2023-07-03,Mocha,40000,1,Tangerang Selatan,20
+2023-02-02,Cake,50000,4,Jakarta,20
+2023-10-01,Cake,50000,3,Bandung,10
+2023-07-23,Cake,50000,3,Bandung,10
+2023-04-22,Latte,35000,1,Bandung,15
+2023-08-08,Espresso,25000,5,Tangerang Selatan,15
+2023-04-19,Latte,35000,3,Bandung,5
+2023-09-11,Cappuccino,30000,2,Tangerang Selatan,10
+2023-05-18,Flat White,30000,5,Yogyakarta,10
+2023-06-15,Cappuccino,30000,3,Bekasi,10
+2023-05-26,Flat White,30000,1,Bekasi,5
+2023-06-22,Cappuccino,30000,2,Jakarta,10
+2023-10-08,Sandwich,45000,3,Tangerang Selatan,20
+2023-10-23,Espresso,25000,3,Tangerang Selatan,0
+2023-03-08,Tea,15000,3,Jakarta,20
+2023-10-17,Cake,50000,4,Bekasi,20
+2023-09-06,Latte,35000,2,Bekasi,15
+2023-06-25,Cake,50000,5,Jakarta,0
+2023-12-16,Americano,20000,1,Yogyakarta,0
+2023-01-25,Mocha,40000,4,Tangerang Selatan,10
+2023-01-24,Espresso,25000,1,Bandung,10
+2023-02-20,Latte,35000,1,Tangerang Selatan,15
+2023-11-17,Cappuccino,30000,4,Yogyakarta,5
+2023-08-24,Sandwich,45000,4,Bekasi,0
+2023-01-09,Macchiato,32000,1,Bandung,5
+2023-03-05,Macchiato,32000,3,Yogyakarta,5
+2023-03-22,Americano,20000,4,Bekasi,15
+2023-08-14,Flat White,30000,1,Bandung,15
+2023-08-22,Sandwich,45000,3,Bekasi,20
+2023-01-01,Mocha,40000,2,Tangerang Selatan,20
+2023-08-08,Latte,35000,2,Tangerang Selatan,20
+2023-04-14,Espresso,25000,1,Yogyakarta,10
+2023-12-19,Cappuccino,30000,5,Bandung,15
+2023-03-09,Sandwich,45000,2,Jakarta,15
+2023-11-29,Americano,20000,3,Bandung,5
+2023-06-04,Espresso,25000,3,Yogyakarta,0
+2023-03-23,Sandwich,45000,3,Bandung,10
+2023-05-21,Espresso,25000,2,Jakarta,5
+2023-02-17,Americano,20000,5,Bekasi,0
+2023-12-02,Cappuccino,30000,3,Jakarta,20
+2023-07-04,Macchiato,32000,5,Bandung,15
+2023-05-09,Tea,15000,4,Jakarta,15
+2023-02-12,Cake,50000,1,Yogyakarta,0
+2023-07-10,Americano,20000,5,Yogyakarta,5
+2023-12-07,Mocha,40000,4,Yogyakarta,10
+2023-11-29,Espresso,25000,4,Jakarta,20
+2023-03-26,Latte,35000,4,Tangerang Selatan,15
+2023-01-27,Latte,35000,1,Tangerang Selatan,5
+2023-07-22,Cappuccino,30000,1,Yogyakarta,5
+2023-11-17,Cake,50000,5,Bekasi,0
+2023-06-06,Macchiato,32000,5,Bekasi,0
+2023-12-25,Tea,15000,5,Bekasi,5
+2023-04-30,Latte,35000,1,Tangerang Selatan,15
+2023-08-08,Americano,20000,4,Yogyakarta,10
+2023-12-02,Macchiato,32000,3,Bandung,20
+2023-02-16,Macchiato,32000,1,Tangerang Selatan,20
+2023-12-27,Flat White,30000,3,Tangerang Selatan,15
+2023-02-18,Tea,15000,1,Bandung,10
+2023-01-01,Latte,35000,4,Jakarta,0
+2023-04-20,Cappuccino,30000,5,Bekasi,10
+2023-09-02,Sandwich,45000,5,Yogyakarta,20
+2023-02-09,Macchiato,32000,3,Jakarta,20
+2023-03-09,Espresso,25000,3,Tangerang Selatan,0
+2023-10-31,Flat White,30000,1,Bekasi,5
+2023-04-26,Americano,20000,2,Yogyakarta,20
+2023-09-23,Americano,20000,1,Tangerang Selatan,5
+2023-12-15,Flat White,30000,1,Yogyakarta,15
+2023-08-16,Americano,20000,4,Yogyakarta,10
+2023-01-05,Cake,50000,5,Yogyakarta,5
+2023-01-05,Mocha,40000,1,Yogyakarta,10
+2023-12-23,Mocha,40000,3,Bekasi,15
+2023-06-25,Cappuccino,30000,2,Jakarta,10
+2023-03-03,Latte,35000,2,Tangerang Selatan,5
+2023-08-05,Latte,35000,5,Jakarta,10
+2023-12-22,Macchiato,32000,4,Tangerang Selatan,15
+2023-03-09,Flat White,30000,3,Bandung,10
+2023-09-02,Cake,50000,1,Yogyakarta,20
+2023-02-06,Cappuccino,30000,5,Bandung,15
+2023-04-28,Mocha,40000,4,Jakarta,0
+2023-07-16,Tea,15000,5,Tangerang Selatan,0
+2023-02-15,Mocha,40000,2,Tangerang Selatan,0
+2023-02-22,Flat White,30000,4,Jakarta,20
+2023-02-22,Cake,50000,4,Bekasi,10
+2023-06-10,Espresso,25000,2,Bekasi,10
+2023-07-08,Espresso,25000,1,Yogyakarta,0
+2023-06-03,Americano,20000,2,Bekasi,20
+2023-03-12,Flat White,30000,1,Bekasi,0
+2023-07-15,Macchiato,32000,2,Tangerang Selatan,15
+2023-03-10,Sandwich,45000,2,Tangerang Selatan,10
+2023-11-25,Flat White,30000,1,Yogyakarta,15
+2023-12-13,Macchiato,32000,1,Jakarta,20
+2023-03-15,Flat White,30000,5,Jakarta,0
+2023-02-05,Macchiato,32000,4,Yogyakarta,10
+2023-09-29,Macchiato,32000,1,Jakarta,0
+2023-10-16,Cake,50000,4,Bandung,10
+2023-01-05,Latte,35000,4,Bekasi,15
+2023-11-09,Macchiato,32000,5,Bandung,5
+2023-11-29,Latte,35000,4,Yogyakarta,20
+2023-03-26,Americano,20000,3,Bekasi,10
+2023-08-14,Sandwich,45000,1,Jakarta,15
+2023-06-29,Americano,20000,3,Yogyakarta,15
+2023-04-20,Americano,20000,1,Bandung,10
+2023-11-18,Americano,20000,2,Bekasi,15
+2023-03-19,Latte,35000,2,Bandung,20
+2023-07-30,Tea,15000,5,Tangerang Selatan,0
+2023-11-12,Cake,50000,5,Tangerang Selatan,5
+2023-12-18,Cappuccino,30000,4,Bekasi,5
+2023-08-15,Tea,15000,3,Tangerang Selatan,15
+2023-04-22,Espresso,25000,3,Yogyakarta,0
+2023-02-14,Mocha,40000,4,Jakarta,0
+2023-02-21,Espresso,25000,3,Jakarta,20
+2023-03-13,Latte,35000,5,Jakarta,5
+2023-03-05,Macchiato,32000,4,Yogyakarta,10
+2023-10-29,Espresso,25000,4,Yogyakarta,20
+2023-07-16,Flat White,30000,5,Bandung,10
+2023-06-29,Cappuccino,30000,1,Yogyakarta,20
+2023-08-08,Flat White,30000,1,Jakarta,20
+2023-06-11,Espresso,25000,2,Bandung,10
+2023-03-13,Tea,15000,5,Tangerang Selatan,0
+2023-05-07,Cappuccino,30000,3,Yogyakarta,20
+2023-05-22,Macchiato,32000,4,Bekasi,10
+2023-11-27,Espresso,25000,3,Yogyakarta,15
+2023-02-13,Latte,35000,5,Bekasi,5
+2023-05-08,Mocha,40000,3,Tangerang Selatan,5
+2023-10-11,Cappuccino,30000,3,Yogyakarta,20
+2023-11-04,Cappuccino,30000,3,Yogyakarta,20
+2023-11-04,Cappuccino,30000,5,Tangerang Selatan,15
+2023-11-08,Mocha,40000,5,Jakarta,20
+2023-05-26,Cappuccino,30000,5,Bekasi,5
+2023-12-20,Sandwich,45000,3,Tangerang Selatan,5
+2023-01-14,Mocha,40000,2,Bekasi,10
+2023-12-04,Tea,15000,2,Bekasi,15
+2023-06-04,Cappuccino,30000,1,Bandung,10
+2023-04-16,Sandwich,45000,5,Jakarta,10
+2023-09-23,Flat White,30000,5,Jakarta,0
+2023-11-07,Macchiato,32000,2,Yogyakarta,20
+2023-09-18,Cake,50000,2,Bandung,15
+2023-04-07,Macchiato,32000,3,Jakarta,5
+2023-07-20,Tea,15000,5,Bandung,20
+2023-06-01,Americano,20000,5,Tangerang Selatan,10
+2023-11-27,Tea,15000,2,Bekasi,0
+2023-01-28,Tea,15000,4,Yogyakarta,10
+2023-05-03,Sandwich,45000,5,Tangerang Selatan,0
+2023-09-11,Americano,20000,5,Bandung,10
+2023-07-17,Espresso,25000,4,Bekasi,15
+2023-02-27,Latte,35000,5,Yogyakarta,0
+2023-05-04,Latte,35000,2,Bekasi,0
+2023-09-13,Sandwich,45000,2,Tangerang Selatan,5
+2023-11-23,Americano,20000,4,Jakarta,10
+2023-11-01,Macchiato,32000,1,Jakarta,10
+2023-02-06,Flat White,30000,2,Yogyakarta,10
+2023-09-28,Flat White,30000,2,Jakarta,15
+2023-01-07,Latte,35000,3,Bekasi,20
+2023-07-04,Espresso,25000,3,Bandung,10
+2023-06-12,Tea,15000,4,Bandung,10
+2023-03-09,Latte,35000,1,Jakarta,20
+2023-07-18,Cappuccino,30000,5,Bandung,15
+2023-10-19,Macchiato,32000,1,Yogyakarta,15
+2023-08-04,Mocha,40000,1,Bandung,10
+2023-07-07,Macchiato,32000,5,Bandung,5
+2023-10-07,Latte,35000,4,Jakarta,0
+2023-12-16,Espresso,25000,5,Yogyakarta,20
+2023-03-30,Cappuccino,30000,3,Bandung,10
+2023-08-30,Cake,50000,3,Jakarta,10
+2023-02-07,Macchiato,32000,2,Yogyakarta,15
+2023-01-09,Sandwich,45000,3,Jakarta,10
+2023-10-28,Sandwich,45000,5,Yogyakarta,15
+2023-02-04,Espresso,25000,4,Yogyakarta,5
+2023-01-08,Macchiato,32000,3,Jakarta,5
+2023-05-15,Flat White,30000,1,Jakarta,5
+2023-04-21,Latte,35000,5,Bandung,15
+2023-01-21,Espresso,25000,3,Bandung,5
+2023-01-31,Cappuccino,30000,4,Bekasi,5
+2023-07-23,Cappuccino,30000,2,Tangerang Selatan,10
+2023-09-17,Espresso,25000,3,Tangerang Selatan,5
+2023-05-27,Americano,20000,1,Jakarta,15
+2023-11-18,Sandwich,45000,4,Bekasi,10
+2023-12-31,Mocha,40000,1,Tangerang Selatan,20
+2023-09-14,Mocha,40000,3,Bandung,10
+2023-08-01,Mocha,40000,1,Bekasi,5
+2023-08-05,Macchiato,32000,4,Tangerang Selatan,20
+2023-12-26,Cappuccino,30000,4,Bekasi,15
+2023-07-25,Flat White,30000,5,Tangerang Selatan,5
+2023-02-12,Macchiato,32000,1,Jakarta,15
+2023-11-24,Cappuccino,30000,5,Yogyakarta,20
+2023-10-02,Latte,35000,1,Bekasi,15
+2023-10-03,Mocha,40000,4,Bekasi,15
+2023-11-12,Cappuccino,30000,4,Tangerang Selatan,20
+2023-03-20,Espresso,25000,3,Tangerang Selatan,0
+2023-05-23,Mocha,40000,1,Tangerang Selatan,0
+2023-02-12,Flat White,30000,5,Tangerang Selatan,10
+2023-06-08,Espresso,25000,2,Bandung,10
+2023-02-10,Espresso,25000,2,Tangerang Selatan,10
+2023-09-19,Flat White,30000,3,Bandung,20
+2023-04-15,Espresso,25000,5,Yogyakarta,10
+2023-03-21,Flat White,30000,3,Tangerang Selatan,5
+2023-10-02,Cake,50000,2,Jakarta,5
+2023-06-17,Macchiato,32000,3,Bekasi,10
+2023-07-20,Americano,20000,1,Bekasi,5
+2023-10-28,Tea,15000,5,Bandung,20
+2023-11-21,Latte,35000,3,Yogyakarta,5
+2023-11-29,Americano,20000,5,Tangerang Selatan,15
+2023-12-15,Americano,20000,1,Tangerang Selatan,10
+2023-11-26,Tea,15000,2,Jakarta,20
+2023-02-03,Latte,35000,3,Tangerang Selatan,20
+2023-06-08,Latte,35000,5,Bekasi,20
+2023-12-24,Mocha,40000,2,Bekasi,10
+2023-08-12,Flat White,30000,5,Bandung,20
+2023-05-03,Americano,20000,2,Jakarta,5
+2023-01-30,Espresso,25000,3,Tangerang Selatan,0
+2023-05-06,Flat White,30000,4,Yogyakarta,20
+2023-02-14,Cake,50000,1,Bandung,15
+2023-08-11,Macchiato,32000,4,Bekasi,20
+2023-03-01,Macchiato,32000,5,Tangerang Selatan,0
+2023-08-21,Flat White,30000,1,Bandung,15
+2023-11-10,Sandwich,45000,3,Tangerang Selatan,15
+2023-11-08,Cake,50000,2,Yogyakarta,15
+2023-01-29,Sandwich,45000,1,Tangerang Selatan,0
+2023-06-08,Cappuccino,30000,3,Yogyakarta,10
+2023-12-08,Flat White,30000,2,Bandung,20
+2023-12-03,Mocha,40000,1,Yogyakarta,20
+2023-03-31,Sandwich,45000,3,Bandung,15
+2023-03-03,Cake,50000,5,Bekasi,20
+2023-01-07,Cappuccino,30000,5,Yogyakarta,0
+2023-12-29,Cappuccino,30000,5,Bandung,15
+2023-03-12,Cake,50000,1,Bekasi,10
+2023-12-26,Espresso,25000,5,Jakarta,5
+2023-01-06,Cake,50000,4,Bandung,15
+2023-03-25,Tea,15000,5,Jakarta,5
+2023-09-12,Tea,15000,2,Bekasi,5
+2023-06-27,Mocha,40000,4,Tangerang Selatan,15
+2023-09-25,Cappuccino,30000,4,Jakarta,15
+2023-09-22,Tea,15000,2,Tangerang Selatan,0
+2023-05-13,Cappuccino,30000,3,Yogyakarta,20
+2023-03-27,Macchiato,32000,2,Bekasi,20
+2023-07-10,Sandwich,45000,1,Yogyakarta,20
+2023-03-06,Tea,15000,1,Bandung,15
+2023-05-18,Americano,20000,2,Tangerang Selatan,0
+2023-03-02,Mocha,40000,4,Jakarta,10
+2023-01-16,Americano,20000,2,Tangerang Selatan,20
+2023-06-21,Flat White,30000,2,Yogyakarta,0
+2023-08-08,Sandwich,45000,4,Tangerang Selatan,0
+2023-05-20,Tea,15000,1,Bekasi,0
+2023-09-26,Sandwich,45000,4,Tangerang Selatan,15
+2023-02-02,Cake,50000,3,Bandung,10
+2023-05-15,Mocha,40000,4,Jakarta,0
+2023-12-31,Mocha,40000,5,Tangerang Selatan,10
+2023-10-23,Macchiato,32000,2,Jakarta,0
+2023-11-18,Macchiato,32000,3,Bekasi,20
+2023-02-09,Espresso,25000,5,Tangerang Selatan,20
+2023-09-12,Flat White,30000,5,Bandung,0
+2023-08-22,Macchiato,32000,5,Jakarta,0
+2023-09-19,Mocha,40000,5,Yogyakarta,15
+2023-07-04,Latte,35000,2,Yogyakarta,0
+2023-01-29,Flat White,30000,3,Tangerang Selatan,5
+2023-09-13,Cappuccino,30000,2,Bekasi,15
+2023-10-18,Macchiato,32000,5,Yogyakarta,5
+2023-03-27,Espresso,25000,2,Jakarta,20
+2023-07-08,Tea,15000,5,Bekasi,5
+2023-03-22,Cake,50000,5,Bandung,10
+2023-05-11,Cake,50000,3,Bekasi,20
+2023-02-22,Cake,50000,3,Tangerang Selatan,5
+2023-10-21,Sandwich,45000,5,Bekasi,5
+2023-12-12,Cake,50000,3,Tangerang Selatan,0
+2023-03-01,Flat White,30000,3,Jakarta,15
+2023-04-27,Macchiato,32000,5,Jakarta,10
+2023-09-18,Cake,50000,4,Jakarta,0
+2023-01-02,Cake,50000,2,Yogyakarta,15
+2023-01-23,Tea,15000,2,Yogyakarta,5
+2023-01-07,Macchiato,32000,2,Yogyakarta,5
+2023-05-06,Espresso,25000,5,Bandung,10
+2023-01-24,Americano,20000,1,Jakarta,0
+2023-08-30,Macchiato,32000,2,Bekasi,20
+2023-07-06,Macchiato,32000,5,Bandung,0
+2023-07-16,Espresso,25000,2,Tangerang Selatan,15
+2023-03-18,Sandwich,45000,3,Bandung,10
+2023-04-02,Sandwich,45000,4,Tangerang Selatan,5
+2023-01-19,Tea,15000,5,Bandung,10
+2023-10-11,Flat White,30000,3,Yogyakarta,10
+2023-12-02,Americano,20000,2,Tangerang Selatan,20
+2023-08-03,Mocha,40000,2,Yogyakarta,10
+2023-04-25,Americano,20000,4,Bekasi,5
+2023-06-14,Flat White,30000,5,Tangerang Selatan,0
+2023-05-08,Latte,35000,5,Bekasi,0
+2023-08-02,Macchiato,32000,4,Yogyakarta,20
+2023-06-13,Mocha,40000,1,Bandung,20
+2023-05-19,Flat White,30000,4,Jakarta,15
+2023-02-09,Tea,15000,2,Bekasi,20
+2023-10-20,Mocha,40000,5,Yogyakarta,10
+2023-07-10,Cappuccino,30000,1,Bekasi,10
+2023-03-03,Americano,20000,2,Yogyakarta,10
+2023-09-15,Americano,20000,2,Yogyakarta,0
+2023-12-11,Macchiato,32000,3,Jakarta,10
+2023-01-27,Cappuccino,30000,1,Jakarta,20
+2023-04-02,Macchiato,32000,4,Bandung,0
+2023-04-25,Mocha,40000,3,Bandung,0
+2023-09-22,Latte,35000,5,Jakarta,10
+2023-01-24,Espresso,25000,2,Yogyakarta,20
+2023-07-25,Espresso,25000,4,Bandung,20
+2023-02-05,Mocha,40000,1,Bandung,0
+2023-08-27,Cake,50000,5,Bekasi,20
+2023-05-25,Mocha,40000,4,Bekasi,5
+2023-06-09,Sandwich,45000,4,Yogyakarta,15
+2023-06-17,Tea,15000,3,Yogyakarta,20
+2023-02-14,Flat White,30000,2,Jakarta,0
+2023-10-11,Cappuccino,30000,1,Bekasi,15
+2023-08-22,Cake,50000,2,Bekasi,15
+2023-01-05,Macchiato,32000,4,Yogyakarta,15
+2023-07-08,Latte,35000,4,Bekasi,15
+2023-04-13,Cappuccino,30000,2,Jakarta,5
+2023-05-30,Americano,20000,1,Bekasi,20
+2023-10-16,Americano,20000,4,Tangerang Selatan,0
+2023-06-05,Mocha,40000,5,Bekasi,10
+2023-11-15,Mocha,40000,3,Jakarta,15
+2023-05-05,Espresso,25000,1,Bandung,15
+2023-08-26,Cappuccino,30000,4,Bekasi,0
+2023-07-08,Mocha,40000,1,Yogyakarta,15
+2023-10-30,Flat White,30000,5,Bekasi,5
+2023-09-10,Cappuccino,30000,4,Bandung,0
+2023-04-11,Cake,50000,3,Tangerang Selatan,10
+2023-10-07,Tea,15000,5,Yogyakarta,0
+2023-05-06,Americano,20000,5,Bandung,0
+2023-03-19,Tea,15000,5,Yogyakarta,20
+2023-01-04,Latte,35000,5,Bekasi,5
+2023-07-29,Sandwich,45000,5,Jakarta,15
+2023-01-13,Sandwich,45000,2,Yogyakarta,5
+2023-04-30,Sandwich,45000,4,Bekasi,15
+2023-10-05,Cake,50000,4,Bandung,5
+2023-06-27,Tea,15000,1,Yogyakarta,5
+2023-11-22,Sandwich,45000,4,Bandung,0
+2023-12-22,Espresso,25000,5,Yogyakarta,15
+2023-01-05,Espresso,25000,4,Bekasi,20
+2023-06-21,Americano,20000,5,Jakarta,20
+2023-01-01,Macchiato,32000,3,Jakarta,0
+2023-12-03,Sandwich,45000,1,Jakarta,5
+2023-07-12,Espresso,25000,3,Tangerang Selatan,0
+2023-06-07,Cappuccino,30000,4,Bandung,5
+2023-02-23,Tea,15000,4,Tangerang Selatan,10
+2023-04-16,Sandwich,45000,2,Jakarta,0
+2023-09-29,Latte,35000,2,Bekasi,5
+2023-05-02,Sandwich,45000,2,Tangerang Selatan,20
+2023-08-03,Espresso,25000,3,Jakarta,5
+2023-09-09,Macchiato,32000,5,Yogyakarta,5
+2023-01-31,Americano,20000,4,Bandung,5
+2023-03-14,Mocha,40000,2,Bandung,5
+2023-12-31,Macchiato,32000,5,Jakarta,20
+2023-05-24,Americano,20000,1,Bandung,20
+2023-02-17,Espresso,25000,4,Yogyakarta,0
+2023-01-23,Americano,20000,1,Jakarta,0
+2023-04-29,Americano,20000,5,Tangerang Selatan,20
+2023-09-24,Cappuccino,30000,5,Jakarta,5
+2023-07-31,Cake,50000,3,Bandung,0
+2023-12-25,Flat White,30000,2,Yogyakarta,10
+2023-07-10,Sandwich,45000,2,Bandung,0
+2023-08-23,Mocha,40000,1,Bekasi,10
+2023-02-13,Cappuccino,30000,4,Yogyakarta,15
+2023-10-25,Espresso,25000,3,Tangerang Selatan,10
+2023-02-18,Sandwich,45000,3,Tangerang Selatan,15
+2023-09-16,Macchiato,32000,2,Tangerang Selatan,20
+2023-03-10,Cappuccino,30000,5,Tangerang Selatan,5
+2023-11-23,Americano,20000,3,Bandung,0
+2023-07-21,Tea,15000,1,Bandung,5
+2023-02-08,Macchiato,32000,5,Tangerang Selatan,5
+2023-10-31,Macchiato,32000,2,Bandung,5
+2023-10-18,Flat White,30000,1,Bandung,0
+2023-02-01,Latte,35000,5,Bekasi,0
+2023-08-11,Mocha,40000,4,Jakarta,10
+2023-12-06,Cake,50000,1,Yogyakarta,0
+2023-03-08,Cake,50000,5,Bandung,0
+2023-05-02,Americano,20000,3,Tangerang Selatan,5
+2023-05-30,Americano,20000,2,Jakarta,5
+2023-05-14,Americano,20000,5,Tangerang Selatan,20
+2023-06-11,Macchiato,32000,2,Bandung,20
+2023-07-21,Mocha,40000,4,Bekasi,20
+2023-12-25,Flat White,30000,3,Yogyakarta,5
+2023-06-17,Sandwich,45000,4,Bekasi,15
+2023-06-12,Tea,15000,3,Jakarta,5
+2023-08-20,Flat White,30000,4,Bekasi,15
+2023-05-20,Americano,20000,2,Yogyakarta,10
+2023-04-30,Sandwich,45000,5,Bekasi,5
+2023-02-08,Mocha,40000,2,Tangerang Selatan,0
+2023-04-14,Americano,20000,4,Bekasi,10
+2023-03-11,Tea,15000,5,Bandung,5
+2023-10-27,Mocha,40000,4,Bekasi,15
+2023-02-25,Tea,15000,2,Tangerang Selatan,10
+2023-03-21,Cappuccino,30000,5,Bandung,5
+2023-02-24,Sandwich,45000,1,Bandung,5
+2023-03-26,Latte,35000,1,Jakarta,10
+2023-08-19,Cappuccino,30000,2,Tangerang Selatan,5
+2023-08-27,Espresso,25000,2,Bandung,0
+2023-06-10,Flat White,30000,1,Tangerang Selatan,5
+2023-07-28,Tea,15000,4,Yogyakarta,15
+2023-03-03,Sandwich,45000,5,Jakarta,0
+2023-10-02,Espresso,25000,5,Jakarta,15
+2023-07-03,Mocha,40000,1,Yogyakarta,15
+2023-04-17,Cappuccino,30000,1,Tangerang Selatan,5
+2023-08-20,Cappuccino,30000,2,Yogyakarta,15
+2023-06-07,Sandwich,45000,3,Yogyakarta,15
+2023-08-26,Macchiato,32000,1,Bekasi,10
+2023-05-16,Tea,15000,5,Tangerang Selatan,0
+2023-03-03,Mocha,40000,1,Bandung,5
+2023-02-16,Latte,35000,4,Jakarta,5
+2023-03-22,Sandwich,45000,4,Tangerang Selatan,20
+2023-12-18,Cappuccino,30000,1,Jakarta,5
+2023-06-05,Flat White,30000,5,Tangerang Selatan,20
+2023-12-27,Espresso,25000,2,Yogyakarta,0
+2023-12-23,Tea,15000,3,Yogyakarta,20
+2023-11-05,Mocha,40000,5,Jakarta,15
+2023-01-21,Cappuccino,30000,3,Jakarta,5
+2023-04-21,Cake,50000,2,Bandung,5
+2023-06-17,Latte,35000,3,Tangerang Selatan,10
+2023-03-17,Americano,20000,5,Yogyakarta,10
+2023-02-16,Flat White,30000,4,Yogyakarta,5
+2023-12-31,Sandwich,45000,3,Jakarta,5
+2023-05-08,Macchiato,32000,2,Jakarta,15
+2023-07-02,Cake,50000,5,Bekasi,20
+2023-07-22,Flat White,30000,1,Tangerang Selatan,20
+2023-09-20,Tea,15000,4,Bekasi,10
+2023-01-26,Sandwich,45000,4,Bekasi,10
+2023-12-13,Cake,50000,4,Bandung,0
+2023-06-03,Mocha,40000,2,Yogyakarta,15
+2023-05-14,Latte,35000,3,Jakarta,10
+2023-03-31,Cappuccino,30000,4,Tangerang Selatan,0
+2023-01-16,Latte,35000,1,Bekasi,15
+2023-07-27,Tea,15000,3,Bekasi,10
+2023-08-20,Cappuccino,30000,1,Jakarta,5
+2023-10-12,Tea,15000,5,Tangerang Selatan,15
+2023-10-09,Macchiato,32000,1,Yogyakarta,20
+2023-05-08,Flat White,30000,5,Jakarta,0
+2023-02-18,Cake,50000,3,Yogyakarta,15
+2023-08-25,Mocha,40000,4,Jakarta,15
+2023-02-22,Sandwich,45000,2,Jakarta,15
+2023-03-13,Cappuccino,30000,4,Yogyakarta,15
+2023-03-04,Mocha,40000,3,Bandung,20
+2023-01-07,Cappuccino,30000,1,Tangerang Selatan,5
+2023-02-01,Mocha,40000,4,Tangerang Selatan,20
+2023-04-24,Latte,35000,3,Tangerang Selatan,20
+2023-03-08,Tea,15000,5,Bandung,20
+2023-04-12,Tea,15000,1,Bandung,20
+2023-07-25,Espresso,25000,4,Bekasi,0
+2023-07-10,Macchiato,32000,3,Yogyakarta,10
+2023-12-18,Macchiato,32000,5,Bekasi,20
+2023-11-19,Flat White,30000,5,Bekasi,10
+2023-11-27,Tea,15000,3,Bandung,5
+2023-02-13,Flat White,30000,3,Tangerang Selatan,5
+2023-10-26,Cake,50000,2,Tangerang Selatan,5
+2023-10-28,Mocha,40000,4,Tangerang Selatan,20
+2023-05-13,Cake,50000,2,Jakarta,5
+2023-02-08,Cappuccino,30000,5,Yogyakarta,0
+2023-01-12,Americano,20000,4,Tangerang Selatan,10
+2023-02-03,Macchiato,32000,4,Jakarta,10
+2023-04-12,Americano,20000,3,Bekasi,10
+2023-11-27,Macchiato,32000,4,Bandung,15
+2023-08-16,Cake,50000,4,Tangerang Selatan,10
+2023-03-07,Sandwich,45000,5,Tangerang Selatan,15
+2023-02-17,Sandwich,45000,1,Tangerang Selatan,15
+2023-06-19,Cake,50000,1,Yogyakarta,0
+2023-03-04,Flat White,30000,2,Bandung,10
+2023-01-22,Espresso,25000,5,Yogyakarta,20
